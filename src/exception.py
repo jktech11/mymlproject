@@ -21,5 +21,5 @@ class CustomException(Exception):
 #     try:
 #        a = 1/0
 #     except Exception as e:
-#         logging.error(e)
+#         logging.info("Division For Zero")
 #         raise CustomException(e,sys)
