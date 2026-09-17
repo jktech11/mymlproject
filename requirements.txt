@@ -1,8 +1,1 @@
-pandas
-seaborn
-numpy
-scikit-learn
-catboost
-xgboost
 flask
-dill
