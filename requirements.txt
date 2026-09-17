@@ -2,3 +2,9 @@ flask
 pandas
 numpy
 seaborn
+scikit-learn
+
+
+
+
+
