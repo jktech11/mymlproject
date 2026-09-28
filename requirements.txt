@@ -4,6 +4,7 @@ numpy
 seaborn
 scikit-learn
 xgboost
+catboost
 
 
 
