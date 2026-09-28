@@ -31,7 +31,7 @@ def home():
 
         predict_class = PredictPipeline()
         print('Mide prediction')
-        result = int(predict_class.Predict(df))
+        result = predict_class.Predict(df)
         print("After Prediction")
 
         return render_template('home.html',results=result[0])
