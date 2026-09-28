@@ -2,9 +2,6 @@ flask
 pandas
 numpy
 seaborn
-xgboost
-catboost
-dill
 scikit-learn
 
 
